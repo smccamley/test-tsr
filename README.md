@@ -17,9 +17,9 @@ The visitors typically land on the home page. They can click through to view the
 
 ## Tasks we’d like you to carry out
 1. The site currently has no server-side code. This is your task, please take the html and make a prototype site. You’ll need to consider the following, but remember that this is your choice, do it the way you think is most effective:
-  1. Should I use a PHP framework?
-  2. Should I use a frontend framework?
-  3. What database should I use?
+  1.1. Should I use a PHP framework?
+  1.2. Should I use a frontend framework?
+  1.3. What database should I use?
 2. Design a simple database to store the document titles and documents.
 3. Use this table to populate the pages of the site.
 4. We want to track the visitor while on the site, so when the visitor clicks “More Info” against a document we want to store this in a session object.
@@ -29,20 +29,20 @@ The visitors typically land on the home page. They can click through to view the
 8. The email address and document purchased should be stored in the database.
 9. The home page should now detail which document the user has purchased.
 10. Finally please do one or more of the following if you have time:
-  1. Show a little frontend flare by adding in some nice feature to make the prototype look better or have a slightly nicer interface.
-  2. Do a little extra to make the solution to perform faster, using caching, query optimisation or other methods to get the most out of the server performance we have.
-  3. Create an extra piece of functionality that gets the prototype slightly closer to the solution that they are looking for. We want to wow them so they give us the work, so the more functional it is, the more likely we’ll win the work.
+  10.1. Show a little frontend flare by adding in some nice feature to make the prototype look better or have a slightly nicer interface.
+  10.2. Do a little extra to make the solution to perform faster, using caching, query optimisation or other methods to get the most out of the server performance we have.
+  10.3. Create an extra piece of functionality that gets the prototype slightly closer to the solution that they are looking for. We want to wow them so they give us the work, so the more functional it is, the more likely we’ll win the work.
 
 ## What do we need from you?
 Once you have completed the task above, please provide the following documentation:
 1. In your solution please take all necessary precautions as though this were a live environment. Make sure you have tested it and the functionality outlined has been tested.
 2. Please return a zip file containing the site as a whole, any SQL required to build the database and any installation instructions. 
 3. Please provide a little information about the following to help us understand how you think:
-  1. Did you use a PHP framework? Please clarify why you chose your solution.
-  2. Did you use a frontend framework? Please clarify why you chose your solution.
-  3. What database did you use? Please clarify why you chose your solution.
-  4. What additions did you do if any, please provided a short description.
-  5. How long did the test take you?
+  10.1. Did you use a PHP framework? Please clarify why you chose your solution.
+  10.2. Did you use a frontend framework? Please clarify why you chose your solution.
+  10.3. What database did you use? Please clarify why you chose your solution.
+  10.4. What additions did you do if any, please provided a short description.
+  10.5. How long did the test take you?
 If you have any questions please don’t hesitate to get in touch and we’ll do our best to help.
 
 Good luck!
